@@ -136,40 +136,23 @@ header .nav-selection {
 }
 
 header .nav-selection.about {
-    width: 44px;
-    left: 49px;
-}
-
-header .nav-selection.blog {
-    width: 33px;
+    width: 60px;
     left: 0;
 }
 
-header .nav-selection.projects {
-    width: 60px;
-    left: 107px;
+header .nav-selection.research {
+    width: 81px;
+    left: 60px;
 }
 
-header .subnav-selection {
-  position: absolute;
-  height: 10px;
-  background-color: $black;
-  width: 50px;
+header .nav-selection.cv {
+    width: 37px;
+    left: 141px;
 }
 
-header .subnav-selection.exemplar-home {
-  right: 140px;
-  width: 42px;
-}
-
-header .subnav-selection.exemplar-docs {
-  right: 87px;
-  width: 35px;
-}
-
-header .subnav-selection.download {
-  right: 0;
-  width: 69px;
+header .nav-selection.contact {
+    width: 72px;
+    left: 178px;
 }
 
 header .profile {
@@ -190,8 +173,8 @@ header .social img {
 }
 
 header .avatar {
-    height: 58px;
-    width: 58px;
+    height: 100px;
+    width: 100px;
     border: 2px solid $black;
     float: left;
     margin-left: 10px;
