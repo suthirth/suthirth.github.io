@@ -115,34 +115,24 @@ header .nav-selection {
   background-color: #6ec5ff; }
 
 header .nav-selection.about {
-  width: 44px;
-  left: 49px; }
+    width: 60px;
+    left: 0;
+}
 
-header .nav-selection.blog {
-  width: 33px;
-  left: 0; }
+header .nav-selection.research {
+    width: 81px;
+    left: 60px;
+}
 
-header .nav-selection.projects {
-  width: 60px;
-  left: 107px; }
+header .nav-selection.cv {
+    width: 37px;
+    left: 141px;
+}
 
-header .subnav-selection {
-  position: absolute;
-  height: 10px;
-  background-color: #111111;
-  width: 50px; }
-
-header .subnav-selection.exemplar-home {
-  right: 140px;
-  width: 42px; }
-
-header .subnav-selection.exemplar-docs {
-  right: 87px;
-  width: 35px; }
-
-header .subnav-selection.download {
-  right: 0;
-  width: 69px; }
+header .nav-selection.contact {
+    width: 72px;
+    left: 178px;
+}
 
 header .profile {
   float: right;
