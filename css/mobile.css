@@ -79,7 +79,7 @@ header nav ul {
   zoom: 1;
   list-style: none;
   padding: 0;
-  margin: 20 0 10px; }
+  margin: 20px 0 10px; }
   header nav ul:before, header nav ul:after {
     content: "";
     display: table; }
