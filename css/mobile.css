@@ -126,7 +126,7 @@ header .nav-selection.contact {
 
 header .profile {
   float: right;
-  height: 100px;
+  height: 58px;
   max-width: 84px;
   margin-top: 14px; }
 
@@ -139,8 +139,8 @@ header .social img {
   margin: 9px 0; }
 
 header .avatar {
-  height: 100px;
-  width: 100px;
+  height: 58px;
+  width: 58px;
   border: 2px solid #111111;
   float: left;
   margin-left: 10px; }
