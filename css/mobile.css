@@ -78,8 +78,8 @@ header nav ul {
   font-size: 16px;
   zoom: 1;
   list-style: none;
-  padding: 0;
-  margin: 20px 0 10px; }
+  padding: 20px 0 0;
+  margin: 0 0 10px; }
   header nav ul:before, header nav ul:after {
     content: "";
     display: table; }
