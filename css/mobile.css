@@ -115,23 +115,23 @@ header .nav-selection {
   background-color: #6ec5ff; }
 
 header .nav-selection.about {
-    width: 60px;
+    width: 50px;
     left: 0;
 }
 
 header .nav-selection.research {
-    width: 81px;
-    left: 60px;
+    width: 75px;
+    left: 55px;
 }
 
 header .nav-selection.cv {
-    width: 37px;
-    left: 141px;
+    width: 35px;
+    left: 135px;
 }
 
 header .nav-selection.contact {
-    width: 72px;
-    left: 178px;
+    width: 65px;
+    left: 175px;
 }
 
 header .profile {
