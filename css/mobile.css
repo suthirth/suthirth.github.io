@@ -21,7 +21,6 @@ a:hover {
 h1, h2, h3, h4, h5 {
   color: #222222;
   font-family: "Bebas Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
   font-weight: normal;
   line-height: 0.8em;
   margin: 0.4em 0; }
@@ -31,12 +30,15 @@ h1, h2, h3, h4, h5 {
     text-decoration: none; }
 
 h1 {
+  text-transform: uppercase;
   font-size: 4em; }
 
 h2 {
+  text-transform: uppercase;
   font-size: 3.5em; }
 
 h3 {
+  text-transform: uppercase;
   font-size: 3em; }
 
 h4 {
