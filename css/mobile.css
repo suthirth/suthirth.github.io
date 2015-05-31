@@ -78,7 +78,7 @@ p {
   color: #992B0F;
  }
  .publ li {
-   border: none;
+   border: 1px solid #00003D;
    padding: 5px;
    margin: 5px 2px;
    display: inline-block;}
