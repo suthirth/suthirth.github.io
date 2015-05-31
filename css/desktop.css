@@ -29,3 +29,54 @@ h1.hero {
 @media (min-width: 62.5em) {
   .github {
     display: block; } }
+
+.pubt {
+  font-size: 1.2em;
+  font-weight:bold;
+  color: #222222;
+}
+@media (max-width: 768px) {
+  .pubt {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .pubd {
+    text-align: justify;
+  }
+}
+.pubd {  
+  font-size: 1.2em;
+  font-weight= lighter
+  line-height: 1.5em;
+}
+.pubimg {
+  text-align: center;
+}
+.pubimg img {
+  max-width: 100%;
+}
+.puba {
+  font-size: 1.2em;
+  color: #730000;
+}
+.pubv {
+  color: #2C4F66;
+  font-size: 1.2em;
+}
+.publ {
+  padding-top: 10px;
+}
+.publ li {
+  border: 1px solid #292929;
+  padding: 5px;
+  margin: 5px 2px;
+  display: inline-block;
+}
+.pubwrap {
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #DDD;
+}
+.pub {
+}
