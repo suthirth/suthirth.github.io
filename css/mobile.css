@@ -79,11 +79,15 @@ p {
   color: #992B0F;
  }
  .publ li {
-   border: 1px solid #00003D;
+   border: 1px solid #CCCCD8;
    padding: 5px;
    margin: 5px 2px;
    display: inline-block;}
-
+.pubt {
+  color: #444444;
+  font-weight: bold;
+  text-align: justify;
+ }
 
 header a {
   color: inherit; }
