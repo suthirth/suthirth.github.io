@@ -89,6 +89,17 @@ p {
   text-align: center;
  }
 
+.quote {
+  color: #777;
+  text-align: center;
+  font-style: italic;
+  font-weight: 300;
+  padding: 90px 0 50px;
+}
+.quote blockquote {
+  font-size: 28px;
+}
+
 header a {
   color: inherit; }
   header a:hover {
