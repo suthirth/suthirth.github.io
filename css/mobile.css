@@ -71,6 +71,21 @@ p {
   .container:after {
     clear: both; }
 
+ .puba {
+  font-size: 1.2em;
+  color: #427699;
+ }
+ .pubv {
+  color: #992B0F;
+  font-size: 1.2em;
+ }
+ .publ li {
+   border: 2px solid #292929;
+   padding: 5px;
+   margin: 5px 2px;
+   display: inline-block;}
+
+
 header a {
   color: inherit; }
   header a:hover {
@@ -274,3 +289,4 @@ pre {
 
 .chords strong {
   color: #6ec5ff; }
+
