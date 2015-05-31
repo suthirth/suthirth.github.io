@@ -94,7 +94,7 @@ p {
   text-align: center;
   font-style: italic;
   font-weight: 300;
-  padding: 90px 0 50px;
+  padding: 0 0 0;
 }
 .quote blockquote {
   font-size: 28px;
