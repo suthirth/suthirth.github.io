@@ -292,6 +292,8 @@ pre {
 }
 .pubd {  
   font-size: 1.2em;
+  font-weight= lighter
+  line-height: 1.5em;
 }
 .pubimg {
   text-align: center;
